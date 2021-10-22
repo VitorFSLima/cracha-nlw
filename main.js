@@ -1,9 +1,10 @@
 const linksSocialMedia = {
+  twitter: 'rocketseat',
   linkedin: 'in/vitor-lima-a27146190',
   github: 'VitorFSLima',
   facebook: 'vitor.ferreira.311',
-  instagram: 'vitorfslima',
-  twitter: 'globo'
+  instagram: 'vitorfslima'
+  
 }
 
 function changeSocialMediaLinks() {
