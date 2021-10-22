@@ -3,7 +3,7 @@ const linksSocialMedia = {
   github: 'VitorFSLima',
   facebook: 'vitor.ferreira.311',
   instagram: 'vitorfslima',
-  twitter: 'jakelinytec'
+  twitter: 'rocketseat'
 }
 
 function changeSocialMediaLinks() {
